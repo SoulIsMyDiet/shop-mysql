@@ -1,0 +1,18 @@
+.minus
+{
+background-color: blue;
+}
+.button
+{
+cursor: pointer;
+width: 25px;
+height: 25px
+}
+.plus
+{
+background-color: red;
+}
+tr td
+{
+border: 2px solid black;
+}
